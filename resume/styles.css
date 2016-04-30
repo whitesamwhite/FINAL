@@ -1,0 +1,63 @@
+
+html{
+  background-color:#FFF;
+  padding:0 1em;
+  }
+body {
+  width: 600px;
+  background: url:();
+  opacity: 0.75;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  padding:1em;
+  margin:1em auto;
+  max-width: 50em;
+  border: double 1px;
+  border-radius: 1 3 1 1;
+  box-shadow: 10px 5px 5px gray;
+  border-radius: 2%;
+  background:url(
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAATklEQVQYV2NkYGAwZmBgOMuAACA+CKCIMSIpADGRNaEYgKwQ3WQUjTCF6CYhWw2WAynEpgjmIpg7jUlSiM0TWK2GWUOUZ7ApxggeogIcABHJFtfoX9tJAAAAAElFTkSuQmCC
+  ) repeat;
+  }
+
+h1{
+  padding-left: 5px;
+  position: relative;;
+  font-size: 1.3em;
+  color: black;
+  text-shadow: 1px 1px orange;
+  border-bottom: solid 1.2px black;
+  border-left: solid 1.2px black;
+}
+#email{
+  font-size: .8px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    border-bottom: solid 1px black;
+}
+
+.dropdown-content {
+    display: none;
+    position: relative;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+h2{
+  width: 200px;
+  padding: 40px;
+  margin: 10px;
+  text-shadow: 1px 1px orange;
+}
+h3{
+  border-top: solid 1px black;
+  padding-top: 5px;
+}
